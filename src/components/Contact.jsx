@@ -31,7 +31,7 @@ export default function Contact() {
     }, 1200);
   };
 
-  return (
+  return(
     <section id="contact" className="section-pad relative">
       <div className="mx-auto max-w-7xl grid grid-cols-1 lg:grid-cols-5 gap-14">
         {/* Info column */}
