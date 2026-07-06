@@ -15,6 +15,7 @@ export default function Hero() {
     <section
       id="home"
       ref={ref}
+      style={{ position: "relative" }}
       className="relative min-h-screen w-full overflow-hidden flex items-center pt-28 md:pt-20"
     >
       {/* Ambient background glow */}
